@@ -14,15 +14,15 @@
 
 ## Exploring the Data
 
-![Functionality_by_Column](images/EDA.png)
+![Functionality_by_Column](images/EDA.PNG)
 The data is explored by category/subject to determine how much the condition of the category will affect the functionality of the waterpoint. The type of data must be taken into consideration when choosing models to fit to the data. The characteristics of the data will also account for a lot of the noise that the model may see.
 
 
 ## Model
 
 From the results of experimentation and fine tuning, the random forest model was used to determine the functionality of the waterpoints given in this dataset. Below is a confusion matrix (where 1 = functional, 2 = nonfunctional, 3 = functional but needs repair) as well as the accuracy of the data in regards to a reserved testset.
-![Confusion_Matrix_for_DT](images/confusion_dt.png)
-![DT_accuracy](images/accuracy_dt.png)
+![Confusion_Matrix_for_DT](images/confusion_dt.PNG)
+![DT_accuracy](images/accuracy_dt.PNG)
 
 
 ## Summary
