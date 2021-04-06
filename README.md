@@ -10,7 +10,7 @@
 ### Raw Data
 
 [Information](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/) provided about each of the waterpoints include geographical descriptions, management and funding information, source and extraction types, and social/population related demographics. The plot belows visualizes the functionality of the different waterpoints according to their location.
-![Map_of_Waterpoint_Functionality](images/status_by_longlat.png)
+<br>![Map_of_Waterpoint_Functionality](images/status_by_longlat.png)
 
 ## Exploring the Data
 
