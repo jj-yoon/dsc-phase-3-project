@@ -21,7 +21,7 @@ The data is explored by category/subject to determine how much the condition of 
 ## Model
 
 From the results of experimentation and fine tuning, the random forest model was used to determine the functionality of the waterpoints given in this dataset. Below is a confusion matrix (where 1 = functional, 2 = nonfunctional, 3 = functional but needs repair) as well as the accuracy of the data in regards to a reserved testset.
-![Confusion_Matrix_for_DT](images/confusion_dt.PNG)
+<br>![Confusion_Matrix_for_DT](images/confusion_dt.PNG)
 ![DT_accuracy](images/accuracy_dt.PNG)
 
 
